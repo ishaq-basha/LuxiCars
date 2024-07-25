@@ -1,5 +1,5 @@
 # LuxiCars 2023
-Welcome to my comprehensive tutorial on building a responsive car rental website using HTML, CSS, and JavaScript!
+
 
 images Reference :
 1) https://p7.hiclipart.com/preview/663/217/89/toyota-fortuner-car-sport-utility-vehicle-toyota-land-cruiser-prado-toyota.jpg
